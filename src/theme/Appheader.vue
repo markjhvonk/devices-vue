@@ -3,7 +3,7 @@
         <div class="container">
             <div class="navbar-brand">
             <a href="/">
-                <img src="http://markvonk.com/icon.png"
+                <img src="http://www.markvonk.com/projects/devices-api/icon.png"
                 alt="Smart Home" style="width: 40px; padding: 15px 0 10px;"/>
             </a>
             </div>
